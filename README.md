@@ -2,6 +2,16 @@
 
 This repository contains the implementation of a Graphical User Interface (GUI) for a medical clinic system, developed as part of the SENG 265 course at the University of Victoria. The project builds on previous assignments, where a model and file layer were implemented, and now adds a user-friendly interface using the PyQt6 framework.
 
+## Screenshots
+
+| Login Page | Home Menu | Create New Patient |
+|-----------|----------------|----------------|
+| ![](login.png) | ![](home_menu.png) | ![](create_patient.png) |
+
+| Appointment Menu | Full Patient Record |
+|-----------|----------------|
+| ![](appointment.png) | ![](patient_notes.png) |
+
 ## Key Features:
 - **Model-View-Controller (MVC) Design**: The GUI is decoupled from the model, allowing for modular and maintainable code.
 - **User Stories Implementation**: The GUI supports all required user stories, including patient management (create, retrieve, update, delete) and note management for patient records.
